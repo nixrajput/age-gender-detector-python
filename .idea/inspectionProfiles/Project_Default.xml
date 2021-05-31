@@ -1,0 +1,102 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="safe" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyAbstractClassInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="5">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.7" />
+            <item index="2" class="java.lang.String" itemvalue="3.8" />
+            <item index="3" class="java.lang.String" itemvalue="3.9" />
+            <item index="4" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="8">
+            <item index="0" class="java.lang.String" itemvalue="storages" />
+            <item index="1" class="java.lang.String" itemvalue="boto3" />
+            <item index="2" class="java.lang.String" itemvalue="botocore" />
+            <item index="3" class="java.lang.String" itemvalue="Django" />
+            <item index="4" class="java.lang.String" itemvalue="django-storages" />
+            <item index="5" class="java.lang.String" itemvalue="Pillow" />
+            <item index="6" class="java.lang.String" itemvalue="s3transfer" />
+            <item index="7" class="java.lang.String" itemvalue="opencv-python-headless" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="len" />
+          <option value="bytes" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mainFiles.models.UserProfileImage.objects" />
+          <option value="mainFiles.models.QuestionBook.objects" />
+          <option value="django.contrib.auth.models.User.DoesNotExist" />
+          <option value="mainFiles.models.Question.objects" />
+          <option value="edupoint.models.Question.objects" />
+          <option value="edupoint.models.UserProfileImage.objects" />
+          <option value="nested_admin.NestedTabularInline" />
+          <option value="nested_admin.NestedModelAdmin" />
+          <option value="quiz.models.UsersAnswer.objects" />
+          <option value="quiz.models.Answer.objects" />
+          <option value="edupoint.models.TestPaper.objects" />
+          <option value="edupoint.models.Answer.objects" />
+          <option value="django.db.models.fields.CharField.split" />
+          <option value="django.db.models.fields.related.ForeignKey.*" />
+          <option value="multiplechoice.models.Answer.objects" />
+          <option value="accounts.models.UserProfileImage.objects" />
+          <option value="accounts.models.TeamMember.objects" />
+          <option value="chats.views.TokenAuthentication" />
+          <option value="accounts.models.Team.objects" />
+          <option value="accounts.models.ProfilePicture.objects" />
+          <option value="django.db.models.fields.files.ImageField.url" />
+          <option value="feedbacks.models.Feedback.objects" />
+          <option value="accounts.models.CustomUser.DoesNotExist" />
+          <option value="account.models.Account.DoesNotExist" />
+          <option value="products.models.Product.objects" />
+          <option value="django.db.models.fields.files.FileField.url" />
+          <option value="django.core.files.uploadedfile.InMemoryUploadedFile.*" />
+          <option value="products.models.ProductScreenshot.*" />
+          <option value="django.db.models.fields.files.FileField.path" />
+          <option value="django.db.models.fields.files.FileField.size" />
+          <option value="rest_framework.authtoken.models.Token.*" />
+          <option value="accounts.models.ProfilePicture.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
